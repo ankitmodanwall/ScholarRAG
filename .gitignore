@@ -1,0 +1,7 @@
+.streamlit/
+.env
+temp/
+temp_data/
+workspaces/
+vectordb/
+__pycache__/
