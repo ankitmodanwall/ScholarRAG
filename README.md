@@ -17,7 +17,7 @@ ScholarRAG Elite is a professional, market-ready RAG (Retrieval-Augmented Genera
 * **Frontend**: Streamlit (with custom CSS for ChatGPT-like experience).
 
 ## 📋 Prerequisites
-- Python 3.10+
+- Python 3.10+ 
 - Groq API Key
 
 ## 📥 Installation & Setup
